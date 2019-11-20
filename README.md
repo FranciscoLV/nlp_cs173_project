@@ -1,2 +1,2 @@
 # nlp_cs173_project
-sentiment analysis
+I worked along with Brenda Boudaie and Jose Quijada
